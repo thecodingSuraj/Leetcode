@@ -15,6 +15,7 @@
 | [0015-3sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/thecodingSuraj/Leetcode/tree/master/0051-n-queens) |
+| [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
