@@ -24,6 +24,7 @@
 | ------- |
 | [0015-3sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3794-reverse-string-prefix](https://github.com/thecodingSuraj/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/thecodingSuraj/Leetcode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
