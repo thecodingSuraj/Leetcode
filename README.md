@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/thecodingSuraj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/thecodingSuraj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/thecodingSuraj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
