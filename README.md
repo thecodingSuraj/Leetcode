@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thecodingSuraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/thecodingSuraj/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/thecodingSuraj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/thecodingSuraj/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -76,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/thecodingSuraj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/thecodingSuraj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
 ## String
@@ -110,6 +113,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/thecodingSuraj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
