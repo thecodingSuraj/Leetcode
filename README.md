@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thecodingSuraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/thecodingSuraj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/thecodingSuraj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thecodingSuraj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thecodingSuraj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/thecodingSuraj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/thecodingSuraj/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thecodingSuraj/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -109,6 +111,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/thecodingSuraj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/thecodingSuraj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thecodingSuraj/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
