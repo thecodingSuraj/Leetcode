@@ -22,6 +22,7 @@
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/thecodingSuraj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/thecodingSuraj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
@@ -42,6 +43,7 @@
 | [0234-palindrome-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [3794-reverse-string-prefix](https://github.com/thecodingSuraj/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -51,6 +53,7 @@
 | [0015-3sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
@@ -66,11 +69,13 @@
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -106,6 +111,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
