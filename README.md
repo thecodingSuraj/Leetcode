@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/thecodingSuraj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
+| [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,4 +166,20 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thecodingSuraj/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
