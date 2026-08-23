@@ -35,6 +35,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/thecodingSuraj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/thecodingSuraj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0143-reorder-list) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thecodingSuraj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/thecodingSuraj/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/thecodingSuraj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/thecodingSuraj/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thecodingSuraj/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
