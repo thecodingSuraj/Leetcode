@@ -32,6 +32,7 @@
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1672-richest-customer-wealth](https://github.com/thecodingSuraj/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -211,4 +212,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/thecodingSuraj/Leetcode/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/thecodingSuraj/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
