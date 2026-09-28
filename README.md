@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/thecodingSuraj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/thecodingSuraj/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/thecodingSuraj/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0076-minimum-window-substring](https://github.com/thecodingSuraj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/thecodingSuraj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/thecodingSuraj/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0412-fizz-buzz](https://github.com/thecodingSuraj/Leetcode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thecodingSuraj/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3794-reverse-string-prefix](https://github.com/thecodingSuraj/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -195,6 +197,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/thecodingSuraj/Leetcode/tree/master/0412-fizz-buzz) |
 | [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
