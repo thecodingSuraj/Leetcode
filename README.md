@@ -17,6 +17,7 @@
 | ------- |
 | [0015-3sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thecodingSuraj/Leetcode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/thecodingSuraj/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/thecodingSuraj/Leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@
 | [0015-3sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thecodingSuraj/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/thecodingSuraj/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/thecodingSuraj/Leetcode/tree/master/0125-valid-palindrome) |
