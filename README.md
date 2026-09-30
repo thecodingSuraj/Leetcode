@@ -215,4 +215,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/thecodingSuraj/Leetcode/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/thecodingSuraj/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
