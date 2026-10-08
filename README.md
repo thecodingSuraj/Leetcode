@@ -119,6 +119,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/thecodingSuraj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/thecodingSuraj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
@@ -131,6 +132,7 @@
 | [0125-valid-palindrome](https://github.com/thecodingSuraj/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/thecodingSuraj/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0412-fizz-buzz](https://github.com/thecodingSuraj/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/thecodingSuraj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thecodingSuraj/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3794-reverse-string-prefix](https://github.com/thecodingSuraj/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/thecodingSuraj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/thecodingSuraj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/thecodingSuraj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thecodingSuraj/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
