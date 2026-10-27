@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/thecodingSuraj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/thecodingSuraj/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/thecodingSuraj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/thecodingSuraj/Leetcode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
