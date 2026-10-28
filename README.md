@@ -19,6 +19,7 @@
 | [0015-3sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thecodingSuraj/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/thecodingSuraj/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/thecodingSuraj/Leetcode/tree/master/0051-n-queens) |
@@ -204,6 +205,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/thecodingSuraj/Leetcode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
