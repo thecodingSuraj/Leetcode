@@ -12,6 +12,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/thecodingSuraj/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
@@ -28,6 +29,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +61,7 @@
 | [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/thecodingSuraj/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -176,6 +179,7 @@
 | [0141-linked-list-cycle](https://github.com/thecodingSuraj/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/thecodingSuraj/Leetcode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -242,4 +247,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
