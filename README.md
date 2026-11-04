@@ -251,4 +251,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/thecodingSuraj/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
