@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0494-target-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -82,10 +83,12 @@
 | ------- |
 | [0039-combination-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/thecodingSuraj/Leetcode/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thecodingSuraj/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0494-target-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -263,4 +266,12 @@
 | [0178-rank-scores](https://github.com/thecodingSuraj/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/thecodingSuraj/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/thecodingSuraj/Leetcode/tree/master/0577-employee-bonus) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
