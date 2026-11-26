@@ -9,11 +9,13 @@
 | [0069-sqrtx](https://github.com/thecodingSuraj/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/thecodingSuraj/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/thecodingSuraj/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/thecodingSuraj/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Array
@@ -31,6 +33,7 @@
 | [0200-number-of-islands](https://github.com/thecodingSuraj/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thecodingSuraj/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thecodingSuraj/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -80,6 +83,7 @@
 | [0075-sort-colors](https://github.com/thecodingSuraj/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thecodingSuraj/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Backtracking
@@ -133,6 +137,7 @@
 | [0202-happy-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/thecodingSuraj/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thecodingSuraj/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/thecodingSuraj/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -229,6 +234,7 @@
 | [0035-search-insert-position](https://github.com/thecodingSuraj/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thecodingSuraj/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/thecodingSuraj/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/thecodingSuraj/Leetcode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/thecodingSuraj/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
