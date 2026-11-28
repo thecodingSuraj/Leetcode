@@ -48,6 +48,7 @@
 | [0739-daily-temperatures](https://github.com/thecodingSuraj/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/thecodingSuraj/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/thecodingSuraj/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/thecodingSuraj/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thecodingSuraj/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/thecodingSuraj/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/thecodingSuraj/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@
 | [0268-missing-number](https://github.com/thecodingSuraj/Leetcode/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thecodingSuraj/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/thecodingSuraj/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/thecodingSuraj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
